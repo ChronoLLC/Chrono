@@ -47,7 +47,13 @@ TOKEN=your_discord_bot_token_here
   "restockChannelId": "restock_channel_id",
   "adminRoleId": "admin_role_id",
   "vanityLink": "your_vanity_link",
-  "premiumGenChannelId": "premium_generation_channel_id"
+    "premiumGenChannelId": "premium_generation_channel_id",
+        "cooldowns": {
+        "freegen": 300, 
+        "premiumgen": 600, 
+        "global": 5
+    }
+
 }
 ```
 
