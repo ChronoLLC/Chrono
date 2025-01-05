@@ -1,0 +1,29 @@
+{
+  "name": "Chrono Gen Bot",
+  "version": "1.0.0 Chrono",
+  "description": "It's a gen bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "3z4k",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.10.0",
+    "@discordjs/rest": "^2.3.0",
+    "@types/node": "^18.0.6",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.7.2",
+    "canvas": "^2.11.2",
+    "cfonts": "^3.3.0",
+    "chalk": "^4.1.2",
+    "chokidar": "^4.0.3",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.37.92",
+    "discord.js": "^14.17.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.19.2",
+    "figlet": "^1.8.0"
+  }
+}
