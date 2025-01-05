@@ -1,0 +1,17 @@
+{
+  "clientId": "your_client_id",
+  "guildId": "your_guild_id",
+  "genChannelId": "generation_channel_id",
+  "freegenroleid": "free_generation_role_id",
+  "premiumgenroleid": "premium_generation_role_id",
+  "restockChannelId": "restock_channel_id",
+  "adminRoleId": "admin_role_id",
+  "vanityLink": "your_vanity_link",
+    "premiumGenChannelId": "premium_generation_channel_id",
+        "cooldowns": {
+        "freegen": 300, 
+        "premiumgen": 600, 
+        "global": 5
+    }
+
+}
